@@ -1,0 +1,15 @@
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.AssemblyInfo.cs
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/bin/Debug/net6.0/Arithmetic_Calc
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/bin/Debug/net6.0/Arithmetic_Calc.deps.json
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/bin/Debug/net6.0/Arithmetic_Calc.runtimeconfig.json
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/bin/Debug/net6.0/Arithmetic_Calc.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/bin/Debug/net6.0/ref/Arithmetic_Calc.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/bin/Debug/net6.0/Arithmetic_Calc.pdb
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/ref/Arithmetic_Calc.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.pdb
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Arithmetic_Calc/obj/Debug/net6.0/Arithmetic_Calc.genruntimeconfig.cache

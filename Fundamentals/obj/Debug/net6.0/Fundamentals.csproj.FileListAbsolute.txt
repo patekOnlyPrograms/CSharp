@@ -1,0 +1,15 @@
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/bin/Debug/net6.0/Fundamentals
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/bin/Debug/net6.0/Fundamentals.deps.json
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/bin/Debug/net6.0/Fundamentals.runtimeconfig.json
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/bin/Debug/net6.0/Fundamentals.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/bin/Debug/net6.0/ref/Fundamentals.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/bin/Debug/net6.0/Fundamentals.pdb
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.AssemblyInfo.cs
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/ref/Fundamentals.dll
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.pdb
+/home/susruth/Documents/Programming/CSharp/CS_Study_Guide/Fundamentals/obj/Debug/net6.0/Fundamentals.genruntimeconfig.cache
